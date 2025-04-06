@@ -134,3 +134,4 @@ const locale: Locale = {
 };
 
 export default locale;
+ 
